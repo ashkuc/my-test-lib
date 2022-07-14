@@ -16,6 +16,7 @@ jobs:
           AUTHOR_NAME: ashkuc
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LOG_LEVEL: debug
+          EXECUTE: "true"
           UPDATE_COMMAND: npm
         with:
           args: install --save --save-exact @unique-nft/opal-testnet-types@latest @unique-nft/quartz-mainnet-types@latest @unique-nft/unique-mainnet-types@latest
