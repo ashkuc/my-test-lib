@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ashkuc/my-test-lib#readme",
   "dependencies": {
     "@unique-nft/opal-testnet-types": "0.5.2",
-    "@unique-nft/quartz-mainnet-types": "0.6.0",
+    "@unique-nft/quartz-mainnet-types": "0.6.1",
     "@unique-nft/unique-mainnet-types": "0.6.3"
   }
 }
