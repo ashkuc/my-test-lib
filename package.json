@@ -19,6 +19,6 @@
   "dependencies": {
     "@unique-nft/opal-testnet-types": "0.5.2",
     "@unique-nft/quartz-mainnet-types": "0.6.0",
-    "@unique-nft/unique-mainnet-types": "0.6.3"
+    "@unique-nft/unique-mainnet-types": "937.52.0"
   }
 }
